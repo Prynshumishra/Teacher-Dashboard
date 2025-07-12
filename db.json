@@ -1,0 +1,24 @@
+{
+  "teachers": [
+    { "id": 1, "name": "Anita Sharma", "role": "Mathematics Teacher", "status": "Active", "location": "New York", "createdAt": "2025-07-01T09:30:00Z" },
+    { "id": 2, "name": "Rajiv Mehra", "role": "Physics Teacher", "status": "Inactive", "location": "Delhi", "createdAt": "2025-06-25T10:00:00Z" },
+    { "id": 3, "name": "Priya Desai", "role": "English Teacher", "status": "Active", "location": "Delhi", "createdAt": "2025-07-10T08:15:00Z" },
+    { "id": 4, "name": "Suresh Iyer", "role": "Biology Teacher", "status": "Active", "location": "Mumbai", "createdAt": "2025-05-15T12:45:00Z" },
+    { "id": 5, "name": "Meena Joshi", "role": "Chemistry Teacher", "status": "Active", "location": "Chennai", "createdAt": "2025-06-20T14:00:00Z" },
+    { "id": 6, "name": "Arun Patel", "role": "History Teacher", "status": "Inactive", "location": "Hyderabad", "createdAt": "2025-04-12T10:30:00Z" },
+    { "id": 7, "name": "Divya Kapoor", "role": "Computer Science Teacher", "status": "Active", "location": "Bangalore", "createdAt": "2025-07-09T15:10:00Z" },
+    { "id": 8, "name": "Sunil Nair", "role": "Economics Teacher", "status": "Inactive", "location": "Delhi", "createdAt": "2025-02-28T16:00:00Z" },
+    { "id": 9, "name": "Nisha Reddy", "role": "Geography Teacher", "status": "Active", "location": "Chennai", "createdAt": "2025-03-05T09:20:00Z" },
+    { "id": 10, "name": "Rohan Singh", "role": "Mathematics Teacher", "status": "Active", "location": "Mumbai", "createdAt": "2025-07-05T13:45:00Z" },
+    { "id": 11, "name": "Lata Kumari", "role": "Sanskrit Teacher", "status": "Inactive", "location": "Hyderabad", "createdAt": "2025-01-20T11:30:00Z" },
+    { "id": 12, "name": "Karan Jain", "role": "Social Studies Teacher", "status": "Active", "location": "New York", "createdAt": "2025-07-02T10:05:00Z" },
+    { "id": 13, "name": "Pooja Verma", "role": "English Teacher", "status": "Active", "location": "Delhi", "createdAt": "2025-06-30T08:00:00Z" },
+    { "id": 14, "name": "Aditya Roy", "role": "Physics Teacher", "status": "Inactive", "location": "Bangalore", "createdAt": "2025-05-10T09:50:00Z" },
+    { "id": 15, "name": "Reema Khan", "role": "Chemistry Teacher", "status": "Active", "location": "Chennai", "createdAt": "2025-07-06T12:00:00Z" },
+    { "id": 16, "name": "Amit Tripathi", "role": "Biology Teacher", "status": "Inactive", "location": "Mumbai", "createdAt": "2025-04-15T14:25:00Z" },
+    { "id": 17, "name": "Sneha Gupta", "role": "Computer Science Teacher", "status": "Active", "location": "Hyderabad", "createdAt": "2025-07-08T16:10:00Z" },
+    { "id": 18, "name": "Rahul Dutta", "role": "Geography Teacher", "status": "Active", "location": "Delhi", "createdAt": "2025-03-20T11:40:00Z" },
+    { "id": 19, "name": "Isha Malhotra", "role": "Mathematics Teacher", "status": "Inactive", "location": "New York", "createdAt": "2025-05-25T10:55:00Z" },
+    { "id": 20, "name": "Manoj Pillai", "role": "English Teacher", "status": "Active", "location": "Chennai", "createdAt": "2025-07-11T09:00:00Z" }
+  ]
+}

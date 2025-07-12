@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+
+
+/* Sidebar transition utility */
+.sidebar {
+  transition: width 0.3s ease;
+  overflow: hidden;
+}
+
+/* When sidebar is collapsed */
+.sidebar-collapsed {
+  width: 64px; /* icon-only */
+}
+
+.sidebar-expanded {
+  width: 260px; /* full sidebar */
+}
+
+.sidebar-hidden {
+  width: 0;
+}
+
+aside {
+  transition: width 0.3s ease;
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+html, body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+/* index.css */
+html {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
